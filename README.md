@@ -28,7 +28,7 @@ By checking the revenue level distribution, it is clear to see the main customer
 ![image](https://github.com/MAST30034-Applied-Data-Science/generic-buy-now-pay-later-project-group-23/blob/main/plots/revenue_level.png)  
 Users with higher revenue level has higher fraud probability(60%-70%), even lower revenue level have over 30% fraud probability which is relative high. For each merchant, revenue level their probability of fraud is 14%.  
   
-#### Why We Can Ensure Low Risk?
+### Why We Can Ensure Low Risk?
 It can be seen above that users with higher revenue level has higher fraud probability(60%-70%), even lower revenue level have over 30% fraud probability which is relative high. For each merchant,revenue level their probability of fraud is 14%.  
 ![image](https://github.com/MAST30034-Applied-Data-Science/generic-buy-now-pay-later-project-group-23/blob/main/plots/consumer_fraud_prob.png)
 ![image](https://github.com/MAST30034-Applied-Data-Science/generic-buy-now-pay-later-project-group-23/blob/main/plots/merchant_fraud_prob.png)  
@@ -54,7 +54,7 @@ and mean amount of the personal income and population.
   
 For the demo dataset, four tags are chosen to be ranked. The main reason we choose cable as one of the tags is that we noticed that there are 12723 (among 215493) transactions(160 merchants) is about Cable tags and the surprising thing is they have same price 157 dollars, rest of transactions price are unique. Therefore we think this 157 dollars product is the most popular one. Thus it becomes one of the tag we discussed. For other tags, they are commonly used item in our daily life therefore and they have enough data.
 
-#### Top Merchants
+### Top Merchants
 By the above algorithm, the top merchants can be easily generated. We generate the top 100 among all merchants, and top 10 merchants for each tags. It's not able to show all the top 100 merchants so only the top tens will be displayed below.  
 ![image](https://github.com/MAST30034-Applied-Data-Science/generic-buy-now-pay-later-project-group-23/blob/main/plots/top10gift.png)  
 ![image](https://github.com/MAST30034-Applied-Data-Science/generic-buy-now-pay-later-project-group-23/blob/main/plots/top10shoe.png)  
