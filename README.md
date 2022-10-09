@@ -8,7 +8,9 @@ Only cooperate with no fraud record merchants or users.(Delete the probable frau
 #### Benefits:
 No risk taken -> higher efficiency(every transaction will be complete safely).
 #### Disadvantage:
-Losing some costumers with relative low fraud probability.
+Losing some costumers with relative low fraud probability.  
+
+### **Kind tip: Please view it in light mode, otherwise the picture title will not be displayed properly!**
 
 ## Project Overview:
 ![image](https://github.com/MAST30034-Applied-Data-Science/generic-buy-now-pay-later-project-group-23/blob/main/plots/blog-buy-now-pay-later.png)
