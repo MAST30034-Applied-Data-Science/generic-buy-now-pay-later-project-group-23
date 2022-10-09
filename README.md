@@ -61,7 +61,7 @@ By the above algorithm, the top merchants can be easily generated. We generate t
 ![image](https://github.com/MAST30034-Applied-Data-Science/generic-buy-now-pay-later-project-group-23/blob/main/plots/top10furniture.png)  
 ![image](https://github.com/MAST30034-Applied-Data-Science/generic-buy-now-pay-later-project-group-23/blob/main/plots/top10cable.png)  
 And here's the store names and their predicted revenue:  
-![image](https://github.com/MAST30034-Applied-Data-Science/generic-buy-now-pay-later-project-group-23/blob/main/plots/top10csv.png)  
+![image](https://github.com/MAST30034-Applied-Data-Science/generic-buy-now-pay-later-project-group-23/blob/main/plots/top10csv.jpg)  
   
 As shown about, a interesting finding is that gift shops have the highest revenue. According to some research, gift shops can have very high profit if they have a good location and marketing techniques. Setting the gift shops around or inside canteens and cafes can attract many tourists who are tired from travel. With the improvement of the epidemic and the relaxation of policies, there will be increasing number of tourists, so the income of gift shops will not only be like this. Gifts come in all kinds, from ordinary souvenirs to jewelry and antiques, small gifts have small profits but quick turnover, and there are also many people willing to send high-end gifts. Apart from the souvenirs, gifts are also highly used in daily life. Now is the era of clicking to buy, and gift shops can easily expand their online shopping business, which will bring much more profit.  
   
